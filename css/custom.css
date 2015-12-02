@@ -6343,3 +6343,7 @@ ul.notifications {
     float: right;
     opacity: 1;
 }
+
+.top_nav li i {
+    color: #1ABB9C;
+}
